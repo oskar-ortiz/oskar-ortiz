@@ -96,6 +96,7 @@ Trabajo con una visión práctica y arquitectónica en:
 
 - **Portafolio:** https://oskar-ortiz.vercel.app
 - **LinkedIn:** https://www.linkedin.com/in/oskar-ortiz-4862233b8/
+- **Email:** oskarortiz124@gmail.com
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Engineer-Cloud%20%7C%20AI-181717?style=for-the-badge" alt="Backend Engineer Cloud & AI" />
